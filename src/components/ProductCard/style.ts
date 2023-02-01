@@ -40,7 +40,7 @@ export const StyledCard = styled.li`
   }
 
   & button {
-    width: calc(100% + 40px);
+    width: calc(100%);
     height: 40px;
 
     background-color: var(--blue);
